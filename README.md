@@ -1,5 +1,3 @@
-# garage-service-website
-A custom WordPress website developed for garage and auto repair services. Features include service listings, booking/contact forms, and a responsive, SEO-optimized design to ensure a smooth user experience.
 # Garage Service Website – [Live Website](https://lux46garage.com/ )
 
 ## Overview
